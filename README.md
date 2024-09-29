@@ -16,11 +16,10 @@ With mAIhealth, patients can easily monitor their health journey, while doctors 
 - Patient Overview: View consolidated patient data, including medical records, test results, and visit history.
 
 ## Modules
-- Flutter for mAIhealth app: 
-- Flutter for Doctor's desktop app: https://github.com/MarieMichaella/mAIHealth
+- Flutter for mAIhealth app: https://github.com/MarieMichaella/mAIHealth
+- Flutter for Doctor's desktop app: 
 - Django for backend (request handling): https://github.com/DekuMawuli/maihealth-api
 - Fast API for interaction with LLMs for AI functionality: https://github.com/DekuMawuli/maihealth-ai
-- Laravel for interaction between Doctor's dashboard and database: 
 
 ## Getting Started
 ### For Users:
