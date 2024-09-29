@@ -17,7 +17,7 @@ With mAIhealth, patients can easily monitor their health journey, while doctors 
 
 ## Modules
 - Flutter for mAIhealth app: https://github.com/MarieMichaella/mAIHealth
-- Flutter for Doctor's desktop app: 
+- Flutter for Doctor's desktop app: https://github.com/DekuMawuli/mai-system
 - Django for backend (request handling): https://github.com/DekuMawuli/maihealth-api
 - Fast API for interaction with LLMs for AI functionality: https://github.com/DekuMawuli/maihealth-ai
 
