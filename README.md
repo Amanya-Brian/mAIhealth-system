@@ -37,7 +37,7 @@ With mAIhealth, patients can easily monitor their health journey, while doctors 
 ## Technology Stack
 - Frontend (Mobile App): Flutter for cross-platform app development (iOS & Android)
 - Frontend (Doctor's Dashboard): Flutter for responsive desktop interface
-- Backend: FastAPI with Python for AI models and data processing
+- Backend: FastAPI and Django with Python for AI models and data processing
 - Database: MySQL database
 - AI/ML Models: GROQ to access cutting edge LLMs
 - Deployment: Hosting of APIs done on Irembo VPS server
